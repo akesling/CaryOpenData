@@ -53,8 +53,11 @@ type_sig = [
     '*', '*', '*', '*', '*', '*',
     'D', 'D', 'D', 'D', 'D', 'D',
     ]
+carymap = pl.imread('./carymap.png')
+pl.imshow(carymap,
+    extent=[-78.9647, -78.6503, 35.5934, 35.9168])
 for i,tp in enumerate(types):
     data = geo_type_slice[tp]
-    pl.plot(data[:, 0], data[:, 1], type_sig[i])
+    pl.plot(data[:, 1], data[:, 0], type_sig[i])
 pl.legend(types)
 pl.show()
