@@ -1,0 +1,216 @@
+NAME,Segment,LENGTH,TYPENAME1,TYPENAME2,SurfaceType,Jurisdiction,Responsibility,TOWNZONE
+Amberly Lake GW Connector,Connects to Brookhill Way,0.04,Greenway Connector,Primary Greenway,Asphalt,Cary,Developer,West
+Amberly Lake Greenway,Amberly Lake 1 Segment,0.33,Greenway,Primary Greenway,Asphalt,Cary,Developer,West
+American Tobacco Trail,Durham Co. to Chatham Co.,4.73,Greenway,Primary Greenway,Asphalt,Chatham Co,Cary,West
+Annie Jones GW Connector,Connects to Abbots Glen,0.02,Greenway Connector,Soft Surface Greenway,Aggregate,Cary,Cary,Central
+Annie Jones GW Connector,Connects to Charter Ct,0.01,Greenway Connector,Soft Surface Greenway,Aggregate,Cary,Cary,Central
+Annie Jones Greenway,Coatbridge Segment,0.58,Greenway,,,Cary,Cary,Central
+Annie Jones Greenway,Lake Pine Segment,0.21,Greenway,Soft Surface Greenway,Aggregate,Cary,Cary,Central
+Annie Jones Greenway,Tarbert-Gatehouse Segment,0.36,Greenway,Secondary Greenway,Asphalt,Cary,Cary,Central
+Batchelor Branch Greenway,KC Farm Road Segment,0.31,Greenway,Primary Greenway,Asphalt,Cary,Cary,West
+Batchelor Branch Greenway,The Reserve Segment,0.76,Greenway,Primary Greenway,Asphalt,Cary,Cary,West
+Bishop's Gate Greenway,Citywalls Pond Loop,0.24,Greenway,Secondary Greenway,Asphalt,Cary,Developer,Central
+Bishop's Gate Greenway,Pond To Pond,0.37,Greenway,Secondary Greenway,Asphalt,Cary,Developer,Central
+Bishop's Gate Greenway,Westhigh Street,0.72,Greenway,Secondary Greenway,Asphalt,Cary,Developer,Central
+Bishops Gate GW Connector,Connects to Castle Garden Street,0.06,Greenway Connector,Secondary Greenway,Asphalt,Cary,Developer,Central
+Bishops Gate GW Connector,Connects to Old London Way,0.04,Greenway Connector,Secondary Greenway,Asphalt,Cary,Developer,Central
+Bishops Gate GW Connector,Connects to Westhigh Street,0.02,Greenway Connector,Secondary Greenway,Asphalt,Cary,Developer,Central
+Black Creek Connector,Connects to Weston Pkwy,0.13,Greenway,Primary Greenway,Asphalt,Cary,,F
+Black Creek GW Connector,Connects to Evans Road,0.1,Greenway Connector,Primary Greenway,Asphalt,Cary,,West
+Black Creek GW Connector,Connects to Linton Banks Place,0.11,Greenway,,Asphalt,,,
+Black Creek GW Connector,Connects to Midenhall Way,0.08,Greenway Connector,Primary Greenway,Asphalt,Cary,Cary,Central
+Black Creek GW Connector,Connects to Tynemouth Drive,0.04,Greenway Connector,,,,,
+Black Creek Greenway,Battery 1 Segment,0.13,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Black Creek Greenway,Battery 2 Segment,0.2,Greenway,Primary Greenway,Asphalt,Cary,Developer,Central
+Black Creek Greenway,Battery 4 Segment,0.28,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Black Creek Greenway,Battery3 Segment,0.18,Greenway,Primary Greenway,Asphalt,Cary,Developer,Central
+Black Creek Greenway,Boat House to Oxxford Hunt GW,0.06,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Black Creek Greenway,Bond Park Boathouse Bypass,0.14,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Black Creek Greenway,Castalia 2 Segment,0.5,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Black Creek Greenway,Crabtree Lake GW to Reedy Creek Trailhead,0.74,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Black Creek Greenway,Crabtree Lake GW to Weston Pkwy SS Trail,0.1,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Black Creek Greenway,Dynasty Segment,0.33,Sidewalk Connector,Sidewalk,Concrete,Cary,Cary,Central
+Black Creek Greenway,Godbold Segment,1.15,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Black Creek Greenway,Hub Segment,0.06,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Black Creek Greenway,Maynard 1 Segment,0.21,Street-Side,Street-Side,Concrete,Cary,Cary,Central
+Black Creek Greenway,Maynard 2 Segment,0.12,Greenway,Primary Greenway,Concrete,Cary,Cary,Central
+Black Creek Greenway,Maynard 3 Segment,0.39,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Black Creek Greenway,Maynard 4 Segment,0.93,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Black Creek Greenway,Maynard 5 Segment,0.23,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Black Creek Greenway,Old Reedy Creek 2 Segment,0.25,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Black Creek Greenway,Temporary Section Black Creek,0.09,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Black Creek Greenway,Weston Pkwy SS Trail to Reedy Creek GW,1.2,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Braebrook Way Street-Side Trail,Kit Creek Trail to Carpenter Town Ln,0.22,Street-Side,Street-Side,Concrete,Cary,Developer,West
+Camp Branch Greenway,Through Stanton Place,0.73,Greenway,Primary Greenway,Asphalt,Cary,Developer,South
+Carpenter Elementary GW Connector,Connects to Carpenter Elementary,0.14,Greenway Connector,Secondary Greenway,Asphalt,Public School,,
+Carramore Ave Street-Side Trail,Davis Drive to Louis Stephens,0.61,Street-Side,Street-Side,Concrete,Cary,Developer,West
+Cary Park Lake GW Connector,Connects to Alden Bridge Drive,0.04,Greenway Connector,Secondary Greenway,Asphalt,,,
+Cary Park Lake Greenway,South Around Cary Park Lake,1.13,Greenway,Primary Greenway,Asphalt,Cary,Developer,West
+Chapel Hill Rd Street-Side Trail,Maynard Rd to Chesterfield Dr,0.29,Street-Side,Street-Side,Concrete,Cary,Developer,Central
+Chatham Street-Side Trail,High House at Chatham Street,0.08,Street-Side,Street-Side,Concrete,,,
+Churchill Estates Greenway,Ten Ten Road Through Churchill Estates,0.58,Greenway,Secondary Greenway,Asphalt,Cary,Developer,South
+Columbus Avenue Street-Side Trail,Crossroads Hotel prop boundary to Caitboo Ave,0.17,Street-Side,Street-Side,Concrete,Cary,Developer,South
+Convention Dr Street-Side Trail,Convention Dr Segment 2,0.08,Street-Side,Street-Side,Concrete,Cary,Cary,Central
+Copperleaf Greenway,Connects to the ATT,0.3,Greenway,Primary Greenway,Asphalt,,,
+Copperleaf Greenway,Through Copperleaf PDD,0.42,Greenway,Secondary Greenway,Asphalt,Cary,Developer,West
+Crabtree Creek Greenway,White Oak GW to Bond ballfields,0.28,Greenway,Soft Surface Greenway,Aggregate,Cary,Cary,Central
+Davis Dr Street-Side Trail,Carramore Ave to Valleystone Dr,0.41,Street-Side,Street-Side,Concrete,Cary/Morrisvill,Cary,West
+Davis Dr Street-Side Trail,Lake Grove Blvd to Carramore Ave,1.61,Street-Side,Street-Side,Concrete,Cary/Morrisvill,Cary,West
+Davis Dr Street-Side Trail,Valleystone Dr to  White Oak Creek GW,0.17,Street-Side,Street-Side,Concrete,Cary,Cary,West
+Davis Dr Street-Side Trail,Valleystone Dr to  White Oak Creek GW,1.15,Street-Side,Street-Side,Concrete,Cary,Cary,West
+Downing Village Greenway,Indian Creek GW  to Downing Village,0.19,Greenway,Secondary Greenway,Asphalt,Cary,Developer,Central
+Downing Village Street-Side,Along Downing Glen Drive,0.06,Street-Side,Street-Side,Concrete,Cary,Developer,Central
+Dutchman's Branch Greenway,Greyhawk,0.36,Greenway,Primary Greenway,Asphalt,Cary,Developer,South
+Evans Rd Street-Side Trail,Evans Rd to Allen Lewis Drive,0.39,Street-Side,Street-Side,Concrete,Cary,Cary,Central
+GLC Rd Street-Side Trail (East),Carpenter Fire Station Road to Panther Creek GW,0.39,Street-Side,Street-Side,Asphalt,Cary,Developer,West
+GLC Rd Street-Side Trail (East),East side of GLCR North of Kit Creek Rd,0.15,Street-Side,Street-Side,Concrete,Cary,Developer,West
+GLC Rd Street-Side Trail (East),Evans Farm Sub to Rosepine Dr,0.26,Street-Side,Street-Side,Asphalt,Cary,Cary,West
+GLC Rd Street-Side Trail (East),Stonewater - east side,0.59,Street-Side,Street-Side,Asphalt,Cary,Developer,West
+GLC Rd Street-Side Trail (East),Village at the Park - west side,0.25,Street-Side,Street-Side,Concrete,Cary,Developer,West
+GLC Rd Street-Side Trail (West),Stonewater - west side,0.58,Street-Side,Street-Side,Asphalt,Cary,Developer,West
+Glenkirk Greenway,Segment through Glenkirk Subdivision,0.13,Greenway,Secondary Greenway,Asphalt,Cary,Developer,Central
+Green Hope School Greenway,Batchelor Branch Greenway to Sears Farm Rd Park,0.53,Greenway,Secondary Greenway,Concrete,Cary,Developer,West
+Green Hope School Greenway,Green Hope School Rd to Highcroft Elem,0.25,Greenway,Secondary Greenway,Concrete,Cary,Developer,West
+Green Hope School Greenway,Sears Farm Rd Park to Highcroft Elem,0.19,Greenway,Secondary Greenway,Concrete,Cary,Developer,West
+Green Hope School Rd Street-Side Trail,Morrisville Pkwy to Raftery GW,0.17,Street-Side,Street-Side,Asphalt,Cary,Developer,West
+Green Hope School Rd Street-Side Trail,Raftery GW along Green Hope School Rd,0.2,Street-Side,Street-Side,Asphalt,Cary,Developer,West
+Green Level Greenway,Along Brooks Park Lane,0.28,Greenway,Primary Greenway,Asphalt,Cary,Cary,West
+Green Level Greenway,Connects to Mills Park Dr,0.08,Greenway,Primary Greenway,Asphalt,Cary,,West
+Green Level Greenway,Hilliard Forest Segment,0.23,Greenway,Primary Greenway,Asphalt,Cary,Developer,West
+Green Level Greenway,Mills Park - parallel to collector Road,0.29,Street-Side,Street-Side,Concrete,Cary,Wake Schools,West
+Greenwood Circle Greenway,Within Walnut Street Park,0.18,Greenway,Secondary Greenway,Asphalt,Cary,Cary,Central
+Greystone Greenway,Morrisville Pkwy through Greystone,0.12,Greenway,Secondary Greenway,Asphalt,Cary,Developer,West
+Higgins GW Connector,Connects to Danforth Drive,0.04,Greenway Connector,Soft Surface Greenway,Aggregate,Cary,Cary,Central
+Higgins Greenway,SW Maynard to Union St,0.78,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+High House Rd Street-Side Trail,Matheson Pl to Old Apex Rd,0.26,Street-Side,Street-Side,Concrete,Cary,Developer,Central
+High House Rd Street-Side Trail,W Chatham St to Matheson Pl,0.07,Street-Side,Street-Side,Concrete,Cary,Developer,Central
+Highcroft Dr Street-Side Trail,Highcroft Dr at Panther Creek,0.18,Street-Side,Street-Side,Asphalt,Cary,Developer,West
+Highcroft Dr Street-Side Trail,Highcroft PDD,0.4,Street-Side,Street-Side,Concrete,Cary,Developer,West
+Highcroft Elementary Connector,From Green Hope School Greenway,0.15,Greenway Connector,Secondary Greenway,Asphalt,Cary,Wake Co,West
+Highcroft Elementary Connector,From Highcroft Elementary to Chandler Grant Drive,0.03,Greenway Connector,Secondary Greenway,Asphalt,,,
+Highcroft Village Greenway,Through SE Highcroft Village PDD Section,0.45,Street-Side,Street-Side,Concrete,Cary,Developer,West
+Hinshaw GW Connector,Connects to Glengarry Drive,0.05,Greenway Connector,Primary Greenway,Asphalt,Cary,Cary,Central
+Hinshaw Greenway,Greenwood Circle to Piney Plains GW,0.33,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Hinshaw Greenway,Greenwood Circle to Piney Plains GW,1,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Hinshaw Greenway,Thurston Dr to Piney Plains GW,0.28,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Indian Creek Greenway,Parallel to Town Hall Campus Dr,0.43,Greenway,Primary Greenway,Asphalt,Cary,Developer,Central
+Kildaire Farm Road Street-Side Trail,Hemlock Bluffs to Dutchman's Branch GW,1.31,Street-Side,Street-Side,Concrete,Cary,Cary,South
+Kit Creek Greenway,Old Carpenter PDD,0.37,Greenway,Primary Greenway,Asphalt,Cary,Developer,West
+Loch Highlands Dr Street-Side Trail,Kildaire Farm Rd to Penny Rd,0.94,Street-Side,Street-Side,Asphalt,,Cary,South
+Louis Stephens Dr Street-Side Trail,Tennis Center to Muir Brook Pl,0.67,Street-Side,Street-Side,Concrete,Cary,Developer,West
+Middle Creek Park Greenway,Along multi-purpose fields,0.34,Greenway,Primary Greenway,Asphalt,Cary,Cary,South
+Mills Park Drive Street-Side Trail,Connects to Parking Lot,0.25,Street-Side,Street-Side,Asphalt,,,
+Mills Park Greenway,Mills Park - parallel to collector Road,0.18,Street-Side,Street-Side,Concrete,Cary,Wake Schools,West
+Morris Branch GW Connector,Connects to GLCR,0.03,Greenway Connector,Primary Greenway,Asphalt,,,
+Morris Branch GW Connector,Connects to Mountain Maple Dr - East,0.02,Greenway Connector,Primary Greenway,Asphalt,Cary,Developer,West
+Morris Branch GW Connector,Connects to Mountain Maple Dr - West,0.03,Greenway Connector,Primary Greenway,Asphalt,Cary,Developer,West
+Morris Branch Greenway,Amberly Lake (Dell Web Ave),0.39,Greenway,Primary Greenway,Asphalt,Cary,Developer,West
+Morris Branch Greenway,Amberly Lake (GLC Rd),0.51,Greenway,Primary Greenway,Asphalt,Cary,Developer,West
+Morris Branch Greenway,Yates Store Rd to Amberly Lake,1.06,Greenway,Primary Greenway,Asphalt,Cary,Developer,West
+Morrisville Pkwy Street-Side Trail,North side (Olde Carpenter Townhomes frontage),0.16,Street-Side,Street-Side,Concrete,Cary,Developer,West
+Morrisville Pkwy Street-Side Trail,Westfalen Dr to Weldon Rdge Blvd,0.96,Street-Side,Street-Side,Concrete,Cary,Developer,West
+NC 55 Street-Side Trail (East),Parkscene Lane  to  Day Care,0.49,Street-Side,Street-Side,Concrete,Cary,Developer,West
+NC 55 Street-Side Trail (West),Army Property & Self Storage Frontage,0.12,Street-Side,Street-Side,Concrete,Cary,Developer,West
+NC 55 Street-Side Trail (West),Highcroft Commons To Green Hope School  Rd,0.13,Street-Side,Street-Side,Concrete,Cary,Cary,West
+NC Hwy 55 Street-Side Trail,North of Kit Creek Rd,0.15,Street-Side,Street-Side,Asphalt,Cary,Developer,West
+NC Hwy 55 Street-Side Trail,West Side of 55 Village at the Park,0.32,Street-Side,Street-Side,Concrete,Cary,Developer,West
+NW Cary Pkwy Street-Side Trail,Thorpe Dr to Silverridge Ct,0.09,Greenway,Primary Greenway,Asphalt,,,
+Nancy Branch GW Connector,Connects to Strendal Dr,0.01,Greenway Connector,Primary Greenway,Asphalt,,,
+Nancy Branch GW Connector,Connects to Summer Harvest Court,0.03,Greenway Connector,Primary Greenway,Asphalt,Cary,Cary,West
+Nancy Branch GW Connector,Connects to Wedonia Dr,0.03,Greenway Connector,Primary Greenway,Asphalt,,,
+Nancy Branch Greenway,Amberly Greenway to GLTD Road,0.31,Greenway,Primary Greenway,Asphalt,Cary,Cary,West
+Nancy Branch Greenway,GLCR Rd to Evans Farm Sub,0.43,Greenway,Primary Greenway,Asphalt,Cary,Developer,West
+North Cary Park,Parking Lot to Black Creek Greenway,0.42,Greenway,Primary Greenway,Asphalt,,,
+Northwoods GW Connector,Connects to Arden Crest Court,0.04,Greenway Connector,Secondary Greenway,Asphalt,Cary,Cary,Central
+Northwoods GW Connector,Connects to Northwoods Elem School,0.01,Greenway Connector,Secondary Greenway,Asphalt,Cary,Cary,Central
+Northwoods GW Connector,Connects to W Boundary St,0.02,Greenway Connector,Secondary Greenway,Asphalt,Cary,,Central
+Northwoods Greenway,Chapel Hill Rd to Black Creek GW,0.84,Greenway,Secondary Greenway,Asphalt,Cary,Cary,Central
+Old Weatherstone Way Street-Side Trail,Glenkirk Greenway to Crigan Bluff Dr,0.09,Street-Side,Street-Side,Concrete,Cary,Cary,Central
+Optimist Farm Greenway,Belmont Subdivision,0.15,Greenway,Secondary Greenway,Asphalt,Cary,Cary,South
+Optimist Farm Greenway,Park At Langston,0.3,Greenway,Secondary Greenway,Asphalt,Cary,Cary,South
+Oxxford Hunt Greenway,Black Creek GW to Swift Creek GWt,0.26,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Oxxford Hunt Greenway,Swift Creek GW to Normandale Dr,1.04,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Panther Creek GW Connector,Connects to Belles Landing Court,0.04,Greenway Connector,Secondary Greenway,Asphalt,,,
+Panther Creek Greenway,Connects Across GLCR,0.05,Greenway,Primary Greenway,Asphalt,Cary,Developer,West
+Panther Creek Greenway,North Around Cary Park Lake,0.73,Greenway,Primary Greenway,Asphalt,Cary,Developer,West
+Park Village GW Connector,Connects to Old Dock Trail,0.05,Greenway Connector,Secondary Greenway,Asphalt,Cary,Cary,West
+Park Village GW Connector,Connects to Swann Quarter Drive,0.04,Greenway Connector,Secondary Greenway,Asphalt,,,
+Park Village Greenway,Sherwood Greens GW  to Park Village Pool,0.3,Greenway,Secondary Greenway,Asphalt,Cary,Cary,West
+Park Village Greenway,White Oak GW to Sherwood Greens GW,0.35,Greenway,Secondary Greenway,Asphalt,Cary,Cary,West
+Piney Plains Greenway,Hinshaw extension to Forest Park Way,0.22,Greenway,Primary Greenway,Asphalt,Cary,Cary,South
+Pirates Cove  Greenway,MacDonald Woods/Kids extension,0.64,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+Pirates Cove GW Connector,Connects to Kingston Ridge Road,0.02,Greenway Connector,Secondary Greenway,Asphalt,Cary,Cary,Central
+Pirates Cove Greenway,Vickie Dr,0.08,Greenway,Secondary Greenway,Asphalt,Cary,Cary,Central
+Pittard Sears Rd Street-Side Trail,ATT Connector,0.09,Street-Side,Street-Side,Concrete,Cary,,West
+Preston Village Greenway,Louis Stephens Rd to Upchurch Meadow Rd,0.38,Greenway,Secondary Greenway,Asphalt,Cary,Cary,West
+Reedy Creek Greenway,Black Creek Trail to Harrison Ave,0.41,Greenway,Secondary Greenway,Asphalt,Cary,Developer,Central
+Roberts Road GW Connector,Connects to Katahdin Way North,0.03,Greenway Connector,Secondary Greenway,Asphalt,,,West
+Roberts Road GW Connector,Connects to Katahdin Way South,0.01,Greenway Connector,Primary Greenway,Asphalt,Cary,,West
+Roberts Road Greenway,White Oak GW to Roberts Road,0.25,Greenway,Secondary Greenway,Asphalt,Cary,Cary,West
+Sears Farm Rd Park Greenway,East of collector to park,0.24,Greenway,Secondary Greenway,Asphalt,Cary,Developer,West
+Sherwood Greens Greenway,Park Village GW Sherwood Forest Place,0.26,Greenway,Secondary Greenway,Asphalt,Cary,Cary,West
+Southbridge GW Connector,Connects to Level Ridge Drive,0.05,Greenway Connector,,Asphalt,,,
+Southbridge Greenway,Cary Glen Blvd to Lantern Ridge Ln,0.4,Greenway,Secondary Greenway,Asphalt,Cary,Cary,West
+Southbridge Greenway,Lantern Ridge Ln to Morrisville Pkwy,0.49,Greenway,Secondary Greenway,Asphalt,Cary,Developer,West
+Sowter Drive Street-Side Trail,Legacy at Carpenter Village frontage on Sowter Dr.,0.11,Street-Side,Street-Side,Concrete,Cary,Developer,West
+Speight Branch GW Connector,Connects to Gwinnett Place,0.03,Greenway Connector,Primary Greenway,Asphalt,Cary,Cary,South
+Speight Branch GW Connector,Connects to Livingstone Drive,0.03,Greenway Connector,Primary Greenway,Asphalt,,,
+Speight Branch GW Connector,Connects to Tryon Road North Side,0.02,Greenway Connector,Primary Greenway,Asphalt,,,
+Speight Branch GW Connector,Connects to Tryon Road South Side,0.05,Greenway Connector,Primary Greenway,Asphalt,Cary,Cary,South
+Speight Branch Greenway,Links Walnut St to Tryon Road Park,0.35,Greenway,Secondary Greenway,Asphalt,Cary,Developer,South
+Speight Branch Greenway,Surrounds east side proposed park site,0.26,Greenway,Primary Greenway,Asphalt,Cary,Developer,South
+Speight Branch Greenway,Tryon Road south to Cary Parkway,0.55,Greenway,Primary Greenway,Asphalt,Cary,Cary,South
+Stone Creek Greenway,Davis Drive to Carpenter Upchurch,0.6,Greenway,Secondary Greenway,Asphalt,Cary,Developer,West
+Swift Creek GW Connector,Connects to Kildaire Farm Road,0.04,Greenway Connector,Primary Greenway,Asphalt,Cary,Cary,South
+Swift Creek GW Connector,Connects to Ritter Park,0.09,Greenway Connector,Primary Greenway,Asphalt,Cary,Cary,South
+Swift Creek Greenway,Along Kildaire Farm Rd,0.15,Greenway,Primary Greenway,Asphalt,Cary,Cary,South
+Swift Creek Greenway,Along NE Hemlock Bluffs,0.83,Greenway,Primary Greenway,Asphalt,Cary,Cary,South
+Swift Creek Greenway,Cary Pkwy to Westhigh St,0.12,Greenway,Primary Greenway,Concrete,Cary,Cary,Central
+Swift Creek Greenway,Old Apex Rd to TOC limits,0.22,Street-Side,Street-Side,Concrete,Cary,Developer/Wake,Central
+Swift Creek Greenway,Swift Creek Trail to Symphony Lake Trail,0.22,Street-Side,Street-Side,Concrete,Cary,Cary,South
+Swift Creek Greenway,Symphony Lake through trail,0.12,Greenway,Secondary Greenway,Asphalt,Cary,Cary,South
+Symphony Lake Connector Trail,Connects Trail to Parking Lot,0.06,Greenway Connector,Secondary Greenway,Asphalt,Cary,,South
+Symphony Lake Greenway,Along Regency Parkway,0.24,Greenway,Secondary Greenway,Asphalt,Cary,Developer,South
+Symphony Lake Greenway,Links Symphony Lake Trail to Regency Parkway,0.26,Greenway,Secondary Greenway,Asphalt,Cary,Developer,South
+Symphony Lake Greenway,Symphony Lake Loop,1.22,Greenway,Secondary Greenway,Asphalt,Cary,Cary,South
+Ten Ten Road Street-Side Trail,Along Churchill Estates Sub,0.2,Street-Side,Street-Side,Concrete,Cary,Developer,
+Thomas Brooks Park Greenway,Within Thomas Brooks Park,0.35,Greenway,Primary Greenway,Asphalt,Cary,Cary,West
+Trinity Rd Street-Side Trail,Trinity Grove Section,0.15,Street-Side,Street-Side,Concrete,Cary,Cary,Central
+W Chatham St Connector,Connects to W Chatham St,0.07,Greenway Connector,Secondary Greenway,Asphalt,Cary,,Central
+Walnut Creek Connector,Connects to Ivy Lane,0.04,Greenway Connector,Secondary Greenway,Asphalt,Cary,Developer,Central
+Walnut Creek Greenway,Convention Dr to Champion Dr,0.16,Greenway,Secondary Greenway,Asphalt,Cary,Developer,Central
+Weldon Ridge Blvd Street-Side Trail,Ollivander Dr to Ivyshaw Rd,0.39,Street-Side,Street-Side,Concrete,Cary,Developer,West
+Western Wake Library Connector,Connects GW to Library,0.05,Greenway Connector,Primary Greenway,Asphalt,Cary,Wake Co,West
+Western Wake Library Greenway,Louis Stephens Dr Along Library Property,0.2,Greenway,Primary Greenway,Asphalt,Cary,Wake Co,West
+Westhigh Street-Side Trail,Westhigh St to Bishops Gate Greenway,0.11,Street-Side,Street-Side,Concrete,Cary,Cary,Central
+Westlake Greenway,Homeplace Drive to Loop Trail,0.05,Greenway,Secondary Greenway,Concrete,Cary,Cary,South
+Westlake Road Street-Side Trail,Parallels east side of Westlake Rd,0.47,Street-Side,Street-Side,Asphalt,Cary,Developer,South
+White Oak Creek Greenway,Batchelor Branch GW  to GLC Road,0.13,Greenway,Primary Greenway,Asphalt,Cary,Cary,West
+White Oak Creek Greenway,Bond Lake Dam Segment,0.29,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+White Oak Creek Greenway,Bond Lake Trail to Crabtree Creek GW,0.06,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+White Oak Creek Greenway,Bond Park Hub Segment,0.1,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+White Oak Creek Greenway,Davis Drive 3 Segment,0.55,Greenway,Primary Greenway,Asphalt,Cary,Cary,West
+White Oak Creek Greenway,Detour Route For Unfinished Section,0.65,Sidewalk Connector,Sidewalk,Concrete,Cary,,
+White Oak Creek Greenway,Green Level 1 Segment,1.75,Greenway,Primary Greenway,Asphalt,Cary,Cary,West
+White Oak Creek Greenway,MacArthur Segment,0.85,Greenway,Primary Greenway,Asphalt,Cary,Cary,Central
+White Oak Creek Greenway,Park Scene Ln (south) to White Oak Ped Tunnel,0.09,Greenway Connector,Primary Greenway,Asphalt,Cary,Cary,West
+White Oak Creek Greenway,White Oak Park 1 Segment,0.25,Greenway,Primary Greenway,Asphalt,Cary,Cary,West
+White Oak Creek Greenway,White Oak Park 2 Segment,0.82,Greenway,Primary Greenway,Asphalt,Cary,Cary,West
+White Oak GW Connector,Connects to Bowers Lane,0.05,Greenway Connector,Primary Greenway,Asphalt,Cary,Cary,West
+White Oak GW Connector,Connects to Cary Parkway,0.01,Greenway Connector,Primary Greenway,Asphalt,Cary,Cary,Central
+White Oak GW Connector,Connects to Cary Parkway,0.04,Greenway Connector,Primary Greenway,Asphalt,Cary,Cary,Central
+White Oak GW Connector,Connects to Davis Dr,0.02,Greenway Connector,Primary Greenway,Asphalt,,,
+White Oak GW Connector,Connects to GLC Road,0.05,Greenway Connector,Primary Greenway,Asphalt,Cary,Cary,West
+White Oak GW Connector,Connects to Hwy NC 55,0.03,Greenway Connector,Primary Greenway,Asphalt,Cary,Cary,West
+White Oak GW Connector,Connects to Lake Trail,0.03,Greenway Connector,Primary Greenway,Asphalt,Cary,Cary,Central
+White Oak GW Connector,Connects to Mint Hill Drive,0.06,Greenway Connector,Primary Greenway,Asphalt,Cary,Cary,West
+White Oak GW Connector,Connects to White Oak Park,0.07,Greenway Connector,Primary Greenway,Asphalt,Cary,Cary,West
+White Oak On-Street Detour,MacArthur Section to Davis Drive SS Trail,0.1,Greenway,On-Road,,Cary,Cary,West
+Woodlands GW Connector,Connects to Liberty Cliff Drive,0.05,Greenway Connector,Secondary Greenway,Asphalt,Cary,Developer,West
+Woodlands Greenway,Along GLC Rd,0.14,Greenway,Secondary Greenway,Asphalt,Cary,Developer,West
+Woodlands Greenway,Thomas Brooks Park to GLC Rd,0.18,Greenway,Secondary Greenway,Asphalt,Cary,Developer,West
+Woodlands Greenway,Within Thomas Brooks Park,0.16,Greenway,Primary Greenway,Asphalt,Cary,Cary,West
+Woodlands Greenway,Woodlands,0.47,Greenway,Primary Greenway,Asphalt,Cary,Developer,West
+Yates Store Rd Street-Side Trail,Amberly Lake McCrimmon Pkwy,0.17,Street-Side,Street-Side,Asphalt,Cary,Developer,West
+Yates Store Rd Street-Side Trail,McCrimmon Pkwy to Horton's Creek,0.97,Street-Side,Street-Side,Asphalt,Cary,Developer,West
+Yates Store Rd Street-Side Trail,OKelly Chapel Rd to Stonewater Glen Ln,0.17,Street-Side,Street-Side,Concrete,Cary,Developer,West
